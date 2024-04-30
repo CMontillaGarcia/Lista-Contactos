@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "username": "Deny",
+      "id": 1
+    },
+    {
+      "username": "Gabriel",
+      "id": 2
+    },
+    {
+      "username": "loco",
+      "id": 3
+    },
+    {
+      "username": "locote",
+      "id": 4
+    },
+    {
+      "username": "loquita",
+      "id": 5
+    }
+  ],
+  "agenda": [
+    {
+      "contact": "Dne Bndndnaaa",
+      "phone": "02122555454",
+      "user": "Deny",
+      "id": 1
+    },
+    {
+      "contact": "Dnnnn Dnnnnaaaww",
+      "phone": "02125558874",
+      "user": "Deny",
+      "id": 2
+    },
+    {
+      "contact": "Loco Locote",
+      "phone": "04141234567",
+      "user": "loco",
+      "id": 3
+    },
+    {
+      "contact": "Loco Locte",
+      "phone": "04141234567",
+      "user": "locote",
+      "id": 4
+    }
+  ]
+}
